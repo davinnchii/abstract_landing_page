@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/abstract_landing_page/static/css/main.f2b3d13a.css",
+    "main.js": "/abstract_landing_page/static/js/main.7c5cf7b5.js",
+    "static/media/page-bg.jpg": "/abstract_landing_page/static/media/page-bg.a2042c6a73b2e0dd0523.jpg",
+    "static/media/mobile-dashboard.png": "/abstract_landing_page/static/media/mobile-dashboard.031958bf483aeec465df.png",
+    "static/media/mobile-income.png": "/abstract_landing_page/static/media/mobile-income.92b5eb3fb9437a62494b.png",
+    "static/media/picture-man.png": "/abstract_landing_page/static/media/picture-man.52d507253ff6bb80ffad.png",
+    "static/media/icon-arrow-right.svg": "/abstract_landing_page/static/media/icon-arrow-right.22de761a0c6cddee603ecd956be6f98c.svg",
+    "static/media/icon-arrow-right-white.svg": "/abstract_landing_page/static/media/icon-arrow-right-white.6e421c036c40382f69d6.svg",
+    "static/media/icon-heart.svg": "/abstract_landing_page/static/media/icon-heart.a9eca494b60b4710490793636b95a93e.svg",
+    "index.html": "/abstract_landing_page/index.html",
+    "static/media/iconoir_language.svg": "/abstract_landing_page/static/media/iconoir_language.de86bcfc4dea63da6b98077b19f83875.svg",
+    "static/media/icon-clock.svg": "/abstract_landing_page/static/media/icon-clock.4f593c82d20d3679cfd0fe4aef3d8af4.svg",
+    "static/media/icon-star.svg": "/abstract_landing_page/static/media/icon-star.318c5f3e5274d8b9a2eba5ba41ad08a5.svg",
+    "static/media/icon-pen.svg": "/abstract_landing_page/static/media/icon-pen.58af4c0392543fbcb465575313b53ac9.svg",
+    "static/media/icon-arrow-down.svg": "/abstract_landing_page/static/media/icon-arrow-down.d1b7a15a77e30a162dac.svg",
+    "static/media/logo-purple.svg": "/abstract_landing_page/static/media/logo-purple.571e60fb9577b6ed85cede958be461a8.svg",
+    "static/media/logo-default.svg": "/abstract_landing_page/static/media/logo-default.456be8ebc4befca7a8b2fda79dcd5b58.svg",
+    "main.f2b3d13a.css.map": "/abstract_landing_page/static/css/main.f2b3d13a.css.map",
+    "main.7c5cf7b5.js.map": "/abstract_landing_page/static/js/main.7c5cf7b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2b3d13a.css",
+    "static/js/main.7c5cf7b5.js"
+  ]
+}
