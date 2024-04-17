@@ -1,24 +1,25 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { Hero } from './sections/Hero';
+import { Feature } from './sections/Feature';
+import { ModernDesign } from './sections/ModernDesign';
+import { SaveTime } from './sections/SaveTime';
+import { Testimonals } from './sections/Testimonals';
+import { Pricing } from './sections/Pricing';
+import { CTA } from './sections/CTA';
+import { Footer } from './sections/Footer';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="flex flex-col bg-page-bg font-encode bg-cover bg-no-repeat">
+      <Hero />
+      <Feature />
+      <ModernDesign />
+      <SaveTime />
+      <Testimonals />
+      <Pricing />
+      <CTA />
+      <div className="mt-[129px] h-[1px] bg-[#7A2DCB66] w-[1250px] mx-auto" />
+      <Footer />
     </div>
   );
 }
