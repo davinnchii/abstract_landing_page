@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/abstract_landing_page/static/css/main.f2b3d13a.css",
-    "main.js": "/abstract_landing_page/static/js/main.7c5cf7b5.js",
+    "main.css": "/abstract_landing_page/static/css/main.437d9688.css",
+    "main.js": "/abstract_landing_page/static/js/main.7ca322ca.js",
     "static/media/page-bg.jpg": "/abstract_landing_page/static/media/page-bg.a2042c6a73b2e0dd0523.jpg",
     "static/media/mobile-dashboard.png": "/abstract_landing_page/static/media/mobile-dashboard.031958bf483aeec465df.png",
     "static/media/mobile-income.png": "/abstract_landing_page/static/media/mobile-income.92b5eb3fb9437a62494b.png",
@@ -17,11 +17,11 @@
     "static/media/icon-arrow-down.svg": "/abstract_landing_page/static/media/icon-arrow-down.d1b7a15a77e30a162dac.svg",
     "static/media/logo-purple.svg": "/abstract_landing_page/static/media/logo-purple.571e60fb9577b6ed85cede958be461a8.svg",
     "static/media/logo-default.svg": "/abstract_landing_page/static/media/logo-default.456be8ebc4befca7a8b2fda79dcd5b58.svg",
-    "main.f2b3d13a.css.map": "/abstract_landing_page/static/css/main.f2b3d13a.css.map",
-    "main.7c5cf7b5.js.map": "/abstract_landing_page/static/js/main.7c5cf7b5.js.map"
+    "main.437d9688.css.map": "/abstract_landing_page/static/css/main.437d9688.css.map",
+    "main.7ca322ca.js.map": "/abstract_landing_page/static/js/main.7ca322ca.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2b3d13a.css",
-    "static/js/main.7c5cf7b5.js"
+    "static/css/main.437d9688.css",
+    "static/js/main.7ca322ca.js"
   ]
 }
